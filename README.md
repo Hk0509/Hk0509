@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Himanshu Kapoor
-- 👀 I’m interested in programming, game development, reading light novels, playing games. 
+- 👀 I’m interested in programming, game development, playing games. 
 - 🌱 I’m currently persuing Btech Computer Science in VIT Bhopal
 - 💞️ I’m looking to collaborate on Games/AR apps using Unity Engine.
 - 📫 You can reach me on:
