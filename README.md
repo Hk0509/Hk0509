@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Himanshu Kapoor
-- 👀 I’m interested in programming, game development, playing games. 
+- 👀 I’m interested in programming, AR/VR, and playing games. 
 - 🌱 I’m currently persuing Btech Computer Science in VIT Bhopal.
 - 📫 You can reach me on:
       Email- himanshukapoor898@gmail.com
