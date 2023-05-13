@@ -3,7 +3,7 @@
 - 🌱 I’m currently persuing Btech Computer Science in VIT Bhopal.
 - 📫 You can reach me on:
       Email- himanshukapoor898@gmail.com
-      Linkedin- https://www.linkedin.com/in/himanshu-kapoor-2a51b2202/
+      Linkedin- linkedin.com/in/himanshu-kapoor05/
 
 <!---
 Hk0509/Hk0509 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
