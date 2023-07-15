@@ -2,7 +2,7 @@
 - 🤓 Practicing DSA and learning Web development.
 - 👀 Interested in programming, AR/VR, and playing games. 
 - 🌱 I’m currently persuing Btech Computer Science in VIT Bhopal.
-- 💞️ Looking to colloborate on Unity or Web Development.
+- 💞️ Looking to colloborate on Unity or Front End projects.
 - 📫 You can reach me on:
       Email- himanshukapoor898@gmail.com
       Linkedin- linkedin.com/in/himanshu-kapoor05/
