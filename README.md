@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Himanshu Kapoor
+- 👋 Hi, I’m Himanshu Kapoor.
 - 🤓 Practicing DSA and learning Web development.
 - 👀 Interested in programming, AR/VR, and playing games. 
 - 🌱 I’m currently persuing Btech Computer Science in VIT Bhopal.
