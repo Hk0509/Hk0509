@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Himanshu Kapoor.
 - 🤓 Practicing DSA and learning Web development.
-- 👀 Interested in programming, AR/VR, and playing games. 
-- 🌱 I’m currently persuing Btech Computer Science in VIT Bhopal.
+- 👀 Interested in programming, AR/VR, and playing Chess. 
+- 🌱 I’m currently persuing Btech Computer Science in VIT Bhopal University.
 - 💞️ Looking to colloborate on Unity or Front End projects.
 - 📫 You can reach me on:
       Email- himanshukapoor898@gmail.com
